@@ -37,7 +37,7 @@ SELECT
   trx.is_b2b,
   lower(trx.fulfilled_by) as fulfilled_by,
   trx.unnamed_cols
-FROM `bq-lab-330701.portofolio_dataset.amazon_india_sales_dataset` trx
-LEFT JOIN `bq-lab-330701.portofolio_dataset.india_pincode_dataset` pin 
+FROM `amazon_india_sales_dataset` trx
+LEFT JOIN `india_pincode_dataset` pin 
   ON cast(trx.ship_postal_code as int64) = pin.Pincode
 ```
