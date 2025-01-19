@@ -34,8 +34,7 @@ Performed **data cleaning**, **exploratory data analysis (EDA)**, and created an
    - Collaborate with the **promotions** and **marketing** teams to introduce incentives for non-promotional purchases, such as loyalty points or free shipping.  
 
 ### Tools and Technologies  
-- **Programming Languages:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Dashboard Tool:** Tableau/Power BI (or specify the tool you used)  
+- **Programming Languages:** SQL  
+- **Dashboard Tool:** Bigquery, Looker Studio
 
 ---  
