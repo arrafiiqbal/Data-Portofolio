@@ -1,7 +1,7 @@
 # M Iqbal Arrafii Data-Portofolio
 A portofolio about data related projects
 
-### Amazon India Sales Data Analysis
+### [Amazon India Sales Data Analysis](./subfolder-name)
 Analyzed a dataset of **128,976 rows and 24 columns** to uncover insights into sales performance.  
 - **Key Findings:** ₹71.05M INR total revenue, **102K orders**, and an **average order value (AOV) of ₹694 INR**.  
 - **Top Categories:** Item Category Set, Kurta, and Western Dress contributed over **90% of revenue**.  
