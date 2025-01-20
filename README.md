@@ -2,6 +2,8 @@
 A portofolio about data related projects
 
 ### [Amazon India Sales Data Analysis](./Amazon%20India%20Sales%20Analysis)
+[![Dashboard Preview](./assets/dashboard-preview.png)](https://lookerstudio.google.com/your-dashboard-link)  
+
 Analyzed a dataset of **128,976 rows and 24 columns** to uncover insights into sales performance.  
 - **Key Findings:** ₹71.05M INR total revenue, **102K orders**, and an **average order value (AOV) of ₹694 INR**.  
 - **Top Categories:** Item Category Set, Kurta, and Western Dress contributed over **90% of revenue**.  
