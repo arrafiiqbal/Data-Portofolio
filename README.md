@@ -2,7 +2,7 @@
 A portofolio about data related projects
 
 ### [Amazon India Sales Data Analysis](./Amazon%20India%20Sales%20Analysis)
-<a href="https://lookerstudio.google.com/your-dashboard-link](https://lookerstudio.google.com/reporting/34b32deb-7115-4876-9353-913ab6c88ca9">
+<a href="https://lookerstudio.google.com/reporting/34b32deb-7115-4876-9353-913ab6c88ca9">
   <img src="./assets/dashboard-preview/Amazon%20India%20Sales%20Dashboard.png" alt="Dashboard Preview" width="600">
 </a> 
 
