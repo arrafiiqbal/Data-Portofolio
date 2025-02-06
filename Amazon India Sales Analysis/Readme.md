@@ -1,5 +1,10 @@
 ## Amazon India Sales Data Analysis  
 
+<sub>Click the image below to access the interactive dashboard:</sub>  
+<a href="https://lookerstudio.google.com/reporting/34b32deb-7115-4876-9353-913ab6c88ca9">
+  <img src="./assets/dashboard-preview/Amazon%20India%20Sales%20Dashboard.png" alt="Dashboard Preview" width="500">
+</a> 
+
 ### Overview  
 Independently analyzed a dataset containing **128,976 rows and 24 columns** from Amazon India sales data.  
 Performed **data cleaning**, **exploratory data analysis (EDA)**, and created an **interactive dashboard** to uncover actionable insights and recommendations.  
