@@ -20,6 +20,12 @@ Analyzed a dataset of **128,976 rows and 24 columns** to uncover insights into s
 
 
 ### [Car Price Prediction: Key Drivers of Vehicle Valuation](./Car%20Price%20Prediction%20and%20Analysis)
+<sub>Click the image below to access the interactive dashboard:</sub>  
+<a href="https://lookerstudio.google.com/reporting/4a0c37c9-a087-4c95-8b01-5e3bb54a1331">
+  <img src="./assets/dashboard-preview/Car%20Price%20Analysis%20Dashboard.png" alt="Dashboard Preview" width="500">
+</a> 
+
+
 
 Developed a predictive model on a dataset of **205 cars with 26 features**, achieving an **R² score of 0.85**. Conducted data cleaning, EDA, and feature engineering to identify key factors influencing car prices.  
 
