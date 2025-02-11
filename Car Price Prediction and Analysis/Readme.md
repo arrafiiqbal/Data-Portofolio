@@ -1,4 +1,4 @@
-### **Car Price Prediction: Data-Driven Insights for Automotive Valuation**  
+### **Car Price Prediction: Key Drivers of Vehicle Valuation**  
 
 #### **Overview**  
 Independently conducted an end-to-end analysis on a dataset containing 26 features and 205 records related to car prices and their specifications. This involved data cleaning, exploratory data analysis (EDA), feature engineering, and developing a predictive model. Despite a limited dataset, the model achieved a strong **R² score of 0.85**, effectively identifying the key factors influencing car prices.  
