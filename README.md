@@ -30,4 +30,8 @@ Developed a predictive model on a dataset of **205 cars with 26 features**, achi
 - **Diesel cars** have **38% higher median price** than gas-powered vehicles.  
 - **Fuel system impacts pricing**, with **MPFI commanding the highest values**.  
 
-This analysis highlights the premium placed on **performance, efficiency, and advanced engineering** in automotive pricing—valuable insights for manufacturers, dealerships, and buyers.  
+This analysis highlights key pricing drivers in the automotive market. **Performance-oriented features** (higher cylinder count, premium engine types, and rear-engine placement) significantly increase a vehicle’s value, making them critical considerations for manufacturers targeting high-end segments. Additionally, **diesel engines and advanced fuel systems** are associated with higher pricing, indicating potential demand for fuel-efficient, long-lasting vehicles.  
+
+**Tools Used:** Google Colab, Looker Studio, Gsheet
+**Colab Notebook Link:**
+**Dashboard Link:** 
