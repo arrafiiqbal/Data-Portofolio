@@ -34,4 +34,4 @@ This analysis highlights key pricing drivers in the automotive market. **Perform
 
 **Tools Used:** Google Colab, Looker Studio, Gsheet
 **Colab Notebook Link:** [Car Price Prediction](/Car%20Price%20Prediction%20and%20Analysis/Car_Price.ipynb)
-**Dashboard Link:** 
+**Dashboard Link:** [Car Price Analysis Dashboard](https://lookerstudio.google.com/reporting/4a0c37c9-a087-4c95-8b01-5e3bb54a1331)
