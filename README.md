@@ -19,7 +19,7 @@ Analyzed a dataset of **128,976 rows and 24 columns** to uncover insights into s
 **Dashboard Link:** [Amazon India Sales Dashboard](https://lookerstudio.google.com/reporting/34b32deb-7115-4876-9353-913ab6c88ca9)  
 
 
-### **Car Price Prediction: Key Drivers of Vehicle Valuation**  
+### [Car Price Prediction: Key Drivers of Vehicle Valuation](./Car%20Price%20Prediction%20and%20Analysis)
 
 Developed a predictive model on a dataset of **205 cars with 26 features**, achieving an **R² score of 0.85**. Conducted data cleaning, EDA, and feature engineering to identify key factors influencing car prices.  
 
@@ -33,5 +33,5 @@ Developed a predictive model on a dataset of **205 cars with 26 features**, achi
 This analysis highlights key pricing drivers in the automotive market. **Performance-oriented features** (higher cylinder count, premium engine types, and rear-engine placement) significantly increase a vehicle’s value, making them critical considerations for manufacturers targeting high-end segments. Additionally, **diesel engines and advanced fuel systems** are associated with higher pricing, indicating potential demand for fuel-efficient, long-lasting vehicles.  
 
 **Tools Used:** Google Colab, Looker Studio, Gsheet
-**Colab Notebook Link:**
+**Colab Notebook Link:** [Car Price Prediction](https://colab.research.google.com/drive/1zYDyFTfYSVUx12EXguflB-v-ZYeQ7fnc?usp=sharing)
 **Dashboard Link:** 
