@@ -33,5 +33,5 @@ Developed a predictive model on a dataset of **205 cars with 26 features**, achi
 This analysis highlights key pricing drivers in the automotive market. **Performance-oriented features** (higher cylinder count, premium engine types, and rear-engine placement) significantly increase a vehicle’s value, making them critical considerations for manufacturers targeting high-end segments. Additionally, **diesel engines and advanced fuel systems** are associated with higher pricing, indicating potential demand for fuel-efficient, long-lasting vehicles.  
 
 **Tools Used:** Google Colab, Looker Studio, Gsheet
-**Colab Notebook Link:** [Car Price Prediction](https://colab.research.google.com/drive/1zYDyFTfYSVUx12EXguflB-v-ZYeQ7fnc?usp=sharing)
+**Colab Notebook Link:** [Car Price Prediction](/Car%20Price%20Prediction%20and%20Analysis/Car_Price.ipynb)
 **Dashboard Link:** 
