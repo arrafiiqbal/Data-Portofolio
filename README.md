@@ -18,3 +18,16 @@ Analyzed a dataset of **128,976 rows and 24 columns** to uncover insights into s
 **Tools Used:** BQ, Gsheet, Looker Studio.
 **Dashboard Link:** [Amazon India Sales Dashboard](https://lookerstudio.google.com/reporting/34b32deb-7115-4876-9353-913ab6c88ca9)  
 
+
+### **Car Price Prediction: Key Drivers of Vehicle Valuation**  
+
+Developed a predictive model on a dataset of **205 cars with 26 features**, achieving an **R² score of 0.85**. Conducted data cleaning, EDA, and feature engineering to identify key factors influencing car prices.  
+
+#### **Key Insights & Business Takeaways**  
+- **Top 5 price drivers:** Cylinder count, engine type, engine location, fuel type, and fuel system.  
+- **Higher cylinder count → Higher price** (8+ cylinders command up to **62% premium**).  
+- **Rear-engine cars** are priced **2x higher** than front-engine models.  
+- **Diesel cars** have **38% higher median price** than gas-powered vehicles.  
+- **Fuel system impacts pricing**, with **MPFI commanding the highest values**.  
+
+This analysis highlights the premium placed on **performance, efficiency, and advanced engineering** in automotive pricing—valuable insights for manufacturers, dealerships, and buyers.  
