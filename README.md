@@ -1,5 +1,5 @@
 # M Iqbal Arrafii Data-Portofolio
-A portofolio about data related projects
+Summary of Data Related Projects
 
 ### [Amazon India Sales Data Analysis](./Amazon%20India%20Sales%20Analysis)
 <sub>Click the image below to access the interactive dashboard:</sub>  
