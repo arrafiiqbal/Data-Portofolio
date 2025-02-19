@@ -31,3 +31,8 @@ Independently conducted an end-to-end analysis on a dataset containing 26 featur
 This analysis highlights key pricing drivers in the automotive market. **Performance-oriented features** (higher cylinder count, premium engine types, and rear-engine placement) significantly increase a vehicle’s value, making them critical considerations for manufacturers targeting high-end segments. Additionally, **diesel engines and advanced fuel systems** are associated with higher pricing, indicating potential demand for fuel-efficient, long-lasting vehicles.  
 
 These insights can support **automakers, dealerships, and buyers** in making informed decisions about pricing, vehicle valuation, and market positioning. Further analysis with a larger dataset could refine these findings for even greater predictive accuracy.  
+
+---  
+
+
+* Original dataset : []()
